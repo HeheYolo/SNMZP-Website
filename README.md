@@ -1,2 +1,2 @@
-# SNZP-Website
-SNZP(Spolecznosc nie mam zielonego pojecia)
+# SNMZP-Website
+SNMZP(Spolecznosc nie mam zielonego pojecia)
